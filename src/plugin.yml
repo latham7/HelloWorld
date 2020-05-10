@@ -1,0 +1,10 @@
+name: HelloWorld
+version: 1.0
+author: Latham.xyz
+main: latham.xyz.helloworld.Main
+description: Our first Minecraft Plugin!
+
+commands:
+  hello: 
+  aliases: [hi]
+  description: This is the hello command!
